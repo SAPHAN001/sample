@@ -1,0 +1,74 @@
+.container-fluid{
+    font-weight: bolder;
+    color: black; 
+    gap: 3cm;
+    font-size: 50px;
+    font-family: fantasy;
+}
+.navbar-nav{
+    gap: 1cm;
+}
+.logo{
+    width: 80px;
+}
+.image{
+    height: 400px;
+    width: 100%;
+}
+.fruit-table{
+    background-image: url(vol.jpg);
+    margin: auto;
+    width: 90%;
+    text-align: center;
+    font-weight: bolder;
+}
+.photo{
+    width: 250px;
+}
+h2{
+    color: blue;
+    text-align: center;
+}
+h3{
+    color: darkred;
+    text-align: center;
+}
+.paragraphy{
+    font-weight: bolder;
+    margin-left: 1cm;
+    font-style: italic;
+}.icon{
+    height: 50px;
+}
+.follow{
+    margin: auto;
+    width: 90%;
+    text-align: center;
+    font-weight: bolder;
+    color: blue;
+    word-spacing: 1cm;
+}
+.page4{
+    background-color: rgb(250, 242, 242);
+    margin-left: 0.2cm;
+}
+.location{
+    width: 49%;
+    height: 300px;
+}
+.page2{
+    margin-left: 0.2cm;
+    background-color: rgb(92, 85, 86);
+    color: whitesmoke;
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.location1{
+    height: 250px;
+     width: auto;
+}
+.manager{
+    border-radius: 50%;
+}
